@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "curse-timer";
+  src: url("CursedTimerUlil-Aznm.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+    margin: 0;
+    background-color: #1B244A;
+    color: #EEEEEE;
+    font-style: "curse-timer";
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
